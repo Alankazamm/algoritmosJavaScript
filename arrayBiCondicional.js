@@ -10,4 +10,4 @@ const openOrSenior = (data) => {
     } );
 }
 
-console.log(openOrSenior([[56,8],[5,6],[51,8]]));
+console.log(openOrSenior([[56,8],[5,6],[51,81222]]));
